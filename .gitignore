@@ -1,0 +1,3 @@
+app/node_modules/
+app/.meteor
+.DS_Store
